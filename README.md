@@ -1,5 +1,66 @@
 # PHP 
 
+
+## Table of Contents :
+
+2. [PHP](#php)
+
+   [2.1 Installation](#lesson-1-)
+
+   [2.2 Data types](#lesson-2-)
+
+   [2.3 Operators](#lesson-3-)
+
+   [2.4 Special Variables](#lesson-4-)
+
+   [2.5 Math Functions](#lesson-5-)
+
+   [2.6 Control Statement](#lesson-6-)
+
+   [2.7 Logical Operators](#lesson-7-)
+
+   [2.8 Switch](#lesson-8-)
+
+   [2.9 For loop](#lesson-9-)
+
+   [2.10 While loop](#lesson-10-)
+
+   [2.11 Array](#lesson-11-)
+
+   [2.12 Associative array](#lesson-12-)
+
+   [2.13 isset and empty Function](#13lesson-13-)
+
+   [2.14 Radio Button](#14lesson-14-)
+
+   [2.15 Checkbox](#15lesson-15-)
+
+   [2.16 Function](#16lesson-16-)
+
+   [2.17 String Functions](#17lesson-17-)
+
+   [2.18 Sanitize and Validate Input](#18lesson-18-)
+
+   [2.19 Include Function](#19lesson-19-)
+
+   [2.20 Cookie](#20lesson-20-)
+
+   [2.21 Session](#21lesson-21-)
+
+   [2.22 Server](#22lesson-22-)
+
+   [2.23 Hashing](#23lesson-23-)
+
+   [2.24 Connecting with MySql](#24lesson-24-)
+
+   [2.25 Insert Data into MySql](#25lesson-25-)
+
+   [2.26 Search Data in MySql](#26lesson-26-)
+
+   [2.27 Registration Form](#27lesson-27-)
+
+[Back to Python](#python-documentation)   
+
 ### Lesson 1 :
 
 - download and install 'XAMPP' from apachefriends website.
@@ -1190,3 +1251,5 @@
     }
 ?>
 ```
+### [Back to PHP](#php)  
+### [Back to Python](#python-documentation)  
